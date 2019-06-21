@@ -38,4 +38,5 @@ const toArrays = objects => {
 
 const toCSV = objects => arrays.toCSV(toArrays(objects))
 
+exports.toArrays = toArrays
 exports.toCSV = toCSV
