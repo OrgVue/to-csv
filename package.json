@@ -1,0 +1,23 @@
+{
+  "name": "to-csv",
+  "version": "1.0.0",
+  "description": "A simple module to convert JS Objects to CSV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrgVue/to-csv.git"
+  },
+  "keywords": [
+    "javascript",
+    "csv"
+  ],
+  "author": "Robert Campbell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OrgVue/to-csv/issues"
+  },
+  "homepage": "https://github.com/OrgVue/to-csv#readme"
+}
